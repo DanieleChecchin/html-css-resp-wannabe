@@ -1,14 +1,14 @@
 
 /* Dai 768px in giù */ 
-
+/*
 .container{
     max-width: 100%;
 }
-
+*/
 
 @media screen and (max-width: 768px) {
     .container{
-        max-width: 760px;
+        max-width: 100%;
     }
 }
 
